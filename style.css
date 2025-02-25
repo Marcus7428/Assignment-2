@@ -1,0 +1,12 @@
+.heroSectionOverlay{
+    /* position: absolute;
+    width: 100%;
+    height: 200px;
+    background: rgba(0, 0, 0, 0.5); */
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 150px;
+    background: linear-gradient(to bottom, rgba(0,0,0,1),rgba(255,255,255,0));
+}
