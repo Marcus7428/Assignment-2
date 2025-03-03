@@ -68,6 +68,13 @@ body, html {
     min-height: 100vh;
     background-color: rgb(70, 70, 70);
 }
+.movie1 img{
+    margin-left: 50%;
+    width: 400px;
+    object-fit: cover;
+
+  }
+  
 .footer {
     position:absolute
 }
