@@ -4,7 +4,7 @@ body, html {
     margin: 0;
     padding: 0;
 }
-.heroTitle {
+.title {
     position: fixed;
     top: 5px;
     left: 20px;
@@ -68,9 +68,23 @@ body, html {
     min-height: 100vh;
     background-color: rgb(70, 70, 70);
 }
-.movie1 img{
-    margin-left: 50%;
-    width: 400px;
+.heroTitle {
+    position: absolute;
+}
+
+.image1{
+    margin-left: 7.5%;
+    width: 25%;
+    object-fit: cover;
+  }
+  .image2{
+    margin-left: 5%;
+    width: 25%;
+    object-fit: cover;
+  }
+  .image3{
+    margin-left: 5%;
+    width: 25%;
     object-fit: cover;
 
   }
