@@ -23,7 +23,7 @@ body, html {
     font-size: 4rem;
     font-weight: bolder;
     text-align: center;
-    color: rgb(0, 255, 255);
+    color: rgb(0, 174, 255);
     
     z-index: 8;
 }
@@ -93,7 +93,7 @@ body, html {
     font-size: 2.5rem;
     font-weight: bold;
     text-align: center;
-    color: rgb(109, 255, 146);
+    color: rgb(51, 180, 0);
     z-index: 10;
 }
 
